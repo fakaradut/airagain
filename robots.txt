@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://moonarcworks.com/airagain/sitemap-index.xml
